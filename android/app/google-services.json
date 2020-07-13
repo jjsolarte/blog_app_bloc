@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "676039468644",
+    "firebase_url": "https://blogflutter-8643d.firebaseio.com",
+    "project_id": "blogflutter-8643d",
+    "storage_bucket": "blogflutter-8643d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676039468644:android:ee4d22d6de2663239d2171",
+        "android_client_info": {
+          "package_name": "com.jjsolarte.blog_app_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676039468644-u6kdhbkp4h5jtfqud6q6qeulu643hjon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrq8i3qX95Ci5Rhx6ZI8FIu9YIYRIUWdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676039468644-u6kdhbkp4h5jtfqud6q6qeulu643hjon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676039468644:android:a6024a5183f3cc3e9d2171",
+        "android_client_info": {
+          "package_name": "com.jjsolarte.flutter_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676039468644-u6kdhbkp4h5jtfqud6q6qeulu643hjon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrq8i3qX95Ci5Rhx6ZI8FIu9YIYRIUWdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676039468644-u6kdhbkp4h5jtfqud6q6qeulu643hjon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
